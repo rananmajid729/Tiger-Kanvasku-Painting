@@ -430,4 +430,4 @@
             "source": "kw.ai",
             "status": 1
         }
-    ],"jump_type":0,"privacy_type":2,"privacy":"https://play.google.com/","whitelist":"br,ph","privacy_event":"open"}
+    ],"jump_type":0,"privacy_type":0,"privacy":"","whitelist":"br,ph","privacy_event":"open"}
